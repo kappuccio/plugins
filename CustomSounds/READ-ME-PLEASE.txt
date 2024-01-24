@@ -1,0 +1,1 @@
+If you're interested in creating your own sound pack, please refer to the 'For Sound Packs Creator' section on the CustomSounds Thunderstore page. If you simply wish to replace a few sounds on your own, you can drop the desired sounds into the 'YourOwnSoundPack' folder.
